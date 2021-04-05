@@ -102,3 +102,10 @@ dist
 
 # TernJS port file
 .tern-port
+
+# Quasar core related directories
+.quasar
+/dist
+public
+src/assets
+src-electron/icons
