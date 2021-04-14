@@ -10,7 +10,7 @@
     "test": "echo \"No test specified\" && exit 0"
   },
   "dependencies": {
-    "@quasar/extras": "^1.10.2",
+    "@quasar/extras": "^1.10.3",
     "@vue/composition-api": "^1.0.0-rc.3",
     "axios": "^0.21.1",
     "core-js": "^3.10.1",
@@ -26,7 +26,7 @@
     "electron": "^9.0.0",
     "electron-debug": "^3.0.1",
     "electron-devtools-installer": "^3.0.0",
-    "eslint": "^7.21.0",
+    "eslint": "^7.24.0",
     "eslint-config-prettier": "^8.1.0",
     "eslint-plugin-vue": "^7.9.0"
   },
