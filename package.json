@@ -6,6 +6,7 @@
   "author": "云助班班科技创新委员会 <yunzhubanban@qianjunakasumi.ren>",
   "private": true,
   "scripts": {
+    "build": "quasar build -m electron",
     "lint": "eslint --ext .js,.ts,.vue ./",
     "test": "echo \"No test specified\" && exit 0"
   },
